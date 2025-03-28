@@ -19,7 +19,7 @@ I just needed to see available recipes using items stored in **Magic Storage**, 
 
 ## 🔗 Steam workshop page  
 
-[Steam]()  
+[Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3453353275)  
 
 ---
 

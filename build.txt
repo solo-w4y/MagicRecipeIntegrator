@@ -1,0 +1,5 @@
+displayName = Recipe Browser include Magic Storage
+author = Arth
+version = 0.1
+modReferences = RecipeBrowser, MagicStorage
+buildIgnore = .vs\*, .git\*

@@ -1,0 +1,40 @@
+﻿[h1]A Simple Mod for Recipe Browser & Magic Storage[/h1]
+
+This mod enables the **"Magic Storage"** checkbox in the **Craft** tab of Recipe Browser, allowing you to view available recipes using items stored in Magic Storage.  
+
+---
+
+[h1]⚠ Achtung! ⚠[/h1]
+
+I created this mod because I needed to see available recipes using items in Magic Storage—**and that’s exactly what it does**.  
+
+:small_orange_diamond: **Magic Storage UI must be open** for recipe calculations to work.  
+:small_orange_diamond: **This mod only shows recipes.**  
+:small_orange_diamond: **You cannot craft directly** from Recipe Browser using this mod.  
+
+---
+
+[h1]🔧 How to Use[/h1]
+
+1️⃣ Enable the **"Magic Storage"** checkbox in the **Craft** tab of Recipe Browser.  
+2️⃣ Open **Magic Storage**.  
+3️⃣ Put some items inside.  
+4️⃣ Enable **"Extended Craftable"** filter in the **Recipes** tab of Recipe Browser.  
+5️⃣ See if it works!  
+
+---
+
+[h1]🎥 Demonstration[/h1]
+
+[video mp4=https://github.com/user-attachments/assets/892244f4-a08c-4c99-a237-1d0ea44ce4b8][/video]
+
+---
+
+[h1]🔗 Links[/h1]
+
+📜 **Source Code:** [url=https://github.com/solo-w4y/MagicRecipeIntegrator]GitHub[/url]  
+
+---
+
+This is my first mod, and I have **no prior C# experience**, so expect bugs!  
+**Huge thanks** to the creators of **Magic Storage** and **Recipe Browser** for making such great mods.  

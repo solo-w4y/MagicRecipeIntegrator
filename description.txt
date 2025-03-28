@@ -1,0 +1,9 @@
+Use "Magic Storage" checkbox in Craft tab.
+
+Includes items from Magic Storage in extended craft calculations.
+
+==[c/ff0000:Achtung!!!]==
+
+Only works while magic storage UI is open!
+
+Only for viewing recipes, can not use stations inside Magic Storage!

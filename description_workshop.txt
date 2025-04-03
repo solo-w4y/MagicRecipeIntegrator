@@ -1,25 +1,25 @@
 ﻿[h1]A Simple Mod for Recipe Browser & Magic Storage[/h1]
 
-This mod enables the **"Magic Storage"** checkbox in the **Craft** tab of Recipe Browser, allowing you to view available recipes using items stored in Magic Storage.  
+This mod enables the [b]"Magic Storage"[/b] checkbox in the [b]Craft[/b] tab of Recipe Browser, allowing you to view available recipes using items stored in Magic Storage.
 
 ---
 
 [h1]⚠ Achtung! ⚠[/h1]
 
-I created this mod because I needed to see available recipes using items in Magic Storage—**and that’s exactly what it does**.  
+I created this mod because I needed to see available recipes using items in Magic Storage—[b]and that’s exactly what it does[/b].
 
-:small_orange_diamond: **Magic Storage UI must be open** for recipe calculations to work.  
-:small_orange_diamond: **This mod only shows recipes.**  
-:small_orange_diamond: **You cannot craft directly** from Recipe Browser using this mod.  
+🔹 [b]Magic Storage UI must be open[/b] for recipe calculations to work.
+🔹 [b]This mod only shows recipes.[/b]
+🔹 [b]You cannot craft directly[/b] from Recipe Browser using this mod.
 
 ---
 
 [h1]🔧 How to Use[/h1]
 
-1️⃣ Enable the **"Magic Storage"** checkbox in the **Craft** tab of Recipe Browser.  
-2️⃣ Open **Magic Storage**.  
-3️⃣ Put some items inside.  
-4️⃣ Enable **"Extended Craftable"** filter in the **Recipes** tab of Recipe Browser.  
+1️⃣ Enable the [b]"Magic Storage"[/b] checkbox in the [b]Craft[/b] tab of Recipe Browser.
+2️⃣ Open [b]Magic Storage[/b].
+3️⃣ Put some items inside.
+4️⃣ Enable [b]"Extended Craftable"[/b] filter in the [b]Recipes[/b] tab of Recipe Browser.
 5️⃣ See if it works!  
 
 ---
@@ -32,9 +32,9 @@ I created this mod because I needed to see available recipes using items in Magi
 
 [h1]🔗 Links[/h1]
 
-📜 **Source Code:** [url=https://github.com/solo-w4y/MagicRecipeIntegrator]GitHub[/url]  
+📜 [b]Source Code:[/b] [url=https://github.com/solo-w4y/MagicRecipeIntegrator]GitHub[/url]
 
 ---
 
-This is my first mod, and I have **no prior C# experience**, so expect bugs!  
-**Huge thanks** to the creators of **Magic Storage** and **Recipe Browser** for making such great mods.  
+This is my first mod, and I have [b]no prior C# experience[/b], so expect bugs!
+[b]Huge thanks[/b] to the creators of [b]Magic Storage[/b] and [b]Recipe Browser[/b] for making such great mods.

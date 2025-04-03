@@ -5,12 +5,18 @@
 
 	<!-- General -->
 	<PropertyGroup>
-		
+		<AssemblyName>MagicRecipeIntegrator</AssemblyName>
+		<LangVersion>latest</LangVersion>
 	</PropertyGroup>
 
 	<!-- References -->
 	<ItemGroup>
-		
+		<Reference Include="MagicStorage">
+			<HintPath>..\references\MagicStorage\MagicStorage.dll</HintPath>
+		</Reference>
+		<Reference Include="RecipeBrowser">
+			<HintPath>..\references\RecipeBrowser\RecipeBrowser.dll</HintPath>
+		</Reference>
 	</ItemGroup>
 
 </Project>

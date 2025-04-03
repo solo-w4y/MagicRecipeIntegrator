@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicRecipeIntegrator", "MagicRecipeIntegrator.csproj", "{C265498B-69C0-55CA-9A94-D5C6D6F145EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C265498B-69C0-55CA-9A94-D5C6D6F145EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C265498B-69C0-55CA-9A94-D5C6D6F145EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C265498B-69C0-55CA-9A94-D5C6D6F145EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C265498B-69C0-55CA-9A94-D5C6D6F145EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F89CE9F0-A6DE-45F7-BB30-0015003D2000}
+	EndGlobalSection
+EndGlobal

@@ -6,4 +6,4 @@ Includes items from Magic Storage in extended craft calculations.
 
 Only works while magic storage UI is open!
 
-Only for viewing recipes, can not use stations inside Magic Storage!
+Only for viewing recipes, can not use crafting stations inside Magic Storage!

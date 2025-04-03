@@ -2,6 +2,7 @@ using System;
 using System.Reflection;
 using System.Collections.Generic;
 using Terraria;
+using Terraria.Localization;
 using Terraria.ModLoader;
 using MonoMod.RuntimeDetour;
 using Microsoft.Xna.Framework;
@@ -147,7 +148,7 @@ namespace MagicRecipeIntegrator
                 string label = textProperty?.GetValue(element) as string;
                 string hoverText = hoverTextField?.GetValue(element) as string;
 
-                if (hoverText != null && hoverText.Contains("Magic Storage"))
+                if (hoverText != null && hoverText.Contains($"{Language.GetTextValue("Mods.RecipeBrowser.CraftUI.MagicStorageTooltip")}"))
                 {
                     var setDisabledMethod = element.GetType().GetMethod("SetDisabled", BindingFlags.Instance | BindingFlags.Public);
                     setDisabledMethod?.Invoke(element, new object[] { false });
